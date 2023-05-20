@@ -1,0 +1,10 @@
+prefix=/home/pallavi/git_repositories/M_hapla/Assembly/.snakemake/conda/f4a43408318ae132dc41017078363666_
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Jellyfish
+Description: A multi-threaded hash based k-mer counter.
+Version: 2.3.0
+Libs: -L${libdir} -ljellyfish-2.0 -lpthread
+Cflags: -I${includedir}/jellyfish-2.3.0

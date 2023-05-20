@@ -1,0 +1,10 @@
+==> 2023-05-20 14:15:04 <==
+# cmd: /home/pallavi/miniconda3/envs/snakemake/bin/mamba create --quiet --file /home/pallavi/git_repositories/M_hapla/Assembly/.snakemake/conda/9e87b8b35f50669dd46ad8f078054180_.yaml --prefix /home/pallavi/git_repositories/M_hapla/Assembly/.snakemake/conda/9e87b8b35f50669dd46ad8f078054180_
+# conda version: 23.3.1
++bioconda/linux-64::kmer-jellyfish-2.3.0-h9f5acd7_3
++conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
++conda-forge/linux-64::_openmp_mutex-4.5-2_gnu
++conda-forge/linux-64::libgcc-ng-12.2.0-h65d4601_19
++conda-forge/linux-64::libgomp-12.2.0-h65d4601_19
++conda-forge/linux-64::libstdcxx-ng-12.2.0-h46fd767_19
+# update specs: ['kmer-jellyfish']
