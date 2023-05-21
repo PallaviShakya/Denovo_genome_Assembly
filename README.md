@@ -11,7 +11,7 @@ Assembly process:
 Workflow is made using Snakemake. To run the process:
 
 ```
-conda activate 
+conda activate snakemake
 snakemake-j xx rule_you_want_to_run
 
 ```
